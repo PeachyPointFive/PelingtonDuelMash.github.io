@@ -80,9 +80,9 @@ sleep(3000).then(() => {
 document.getElementById("start2").innerHTML = "FIRE";
 
 
-document.getElementById("p1").style.backgroundImage = "url('PelingtonDuelMash/graphics/OliveDraw.png')";
+document.getElementById("p1").style.backgroundImage = "url('graphics/OliveDraw.png')";
 
-document.getElementById("p2").style.backgroundImage = "url(''PelingtonDuelMash/graphics/LilacDraw.png')";
+document.getElementById("p2").style.backgroundImage = "url('graphics/LilacDraw.png')";
 
 
 
